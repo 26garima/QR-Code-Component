@@ -1,3 +1,6 @@
 # QR Code Component
 
-This repo contains the solution of HTML + CSS Challenge named "QR Code Component" on https://www.frontendmentor.io/home
+Challenge Link : https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+
+
+This repo contains the solution of above challenge.
